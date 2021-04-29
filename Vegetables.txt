@@ -1,0 +1,30 @@
+potato,onion,capcicum
+brinjal,onion,cauliflower
+beans,potato,onion,lady finger
+onion,mushroom,brinjal
+carrot,onion,lady finger
+mushroom,potato,garlic,onion
+cauliflower,mushrooom,onion,gourd
+raddish,carrrot,onion,cucumber
+capcicum,spanich,onion
+onion,potato,spanich,brinjal
+brinjal,beans,onion,carrot
+raddish,cucumbber,spanich
+lady finger,onion,potato
+onion,mushroom,beans
+carrot,cucumber,onion,potato
+garlic,onion,capcicum,potato
+lady finger,raddish,pumpkin
+beans,onion,capcicum,potato
+spanich,garlic,onion,potato
+cucumber,onion,capcicum,cauliflower
+mushroom,onion
+garlic,onion,potato,raddish
+brinjal,onion,potato,mushroom
+potato,lady finger,beans
+onion,capcicum,cauliflower
+raddish,pumpkin
+onion,capcicum,cauliflower
+brinjal,beans,onion
+beans,potato
+cucumber,onion,capcicum

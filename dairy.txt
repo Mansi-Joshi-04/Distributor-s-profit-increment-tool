@@ -1,0 +1,29 @@
+bread,biscuits,egg
+milk,butter,egg,ice cream,bread
+ice cream,cake,egg,yogurt,milk
+milk,egg,butter,biscuits
+bread,egg,cheese,butter
+butter,bread,egg,curd
+egg,milk,honey,bread,ghee
+yogurt,milk,honey,biscuits
+curd,milk,butter,yogurt
+honey,milk powder,butter,curd
+curd,ice cream,biscuits,honey,butter,ghee,milk
+ice cream,milk,curd,butter
+butter,egg,milk,curd,honey
+cheese,bread,egg,chocolate,milk
+cheese,bread,milk,curd
+milk,bread,curd
+milk,egg,ghee,biscuits
+cheese,milk,egg,cake,buuter,ghee,cheese
+bread,honey,milk powder,cheese
+chocolate,milk,butter,egg
+ice cream,cake,milk,egg,ghee
+milk,cheese,cake,chocolate
+ice cream,milk,butter,ghee,bread
+bread,butter,milk,egg
+ice cream,cake,milk,cheese,curd
+curd,milk,butter,ghee,cheese,egg
+curd,ghee,milk,chocolate,cake
+ice cream,milk,cheese,chocolate
+cheese,curd,milk powder,butter,bread

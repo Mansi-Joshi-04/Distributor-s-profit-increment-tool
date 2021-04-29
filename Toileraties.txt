@@ -1,0 +1,29 @@
+soap,shampoo,toothpaste
+razor,after shave,toothpaste,wipes
+moisturizer,lip balm,soap,shampoo
+wipes,perfume,razor,toothpaste
+soap,toothpaste,perfume
+face wash,toothpaste,perfume,moisturizer
+shampoo,wipes,after shave,razor
+toothpaste,soap,shampoo,lip balm
+perfume,lip balm,face wash
+wipes,perfume,soap 
+soap,shampoo
+lip balm,moisturizer,perfume
+conditioner,shampoo,soap,toothpaste
+wipes,face wash,perfume
+lip balm,razor,after shave
+perfume,conditioner,shampoo
+soap,perfume,toothpaste,lip balm
+perfume,soap,lip balm,wipes
+razor,toothpaste,soap
+lip balm,perfume,soap,moisturizer
+conditioner,shampoo,soap
+wipes,soap,after shave,lip balm,perfume
+face wash,lip balm,shampoo
+wipes,shampoo,soap
+lip balm,face wash,soap,shampoo,conditioner
+perfume,soap,moisturizer
+soap,shampoo,conditioner
+toothpaste,perfume,moisturizer
+lip balm,perfume

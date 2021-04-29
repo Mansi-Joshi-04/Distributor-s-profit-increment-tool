@@ -1,0 +1,30 @@
+chole,rajma,besan,maida
+rajma,atta,dalia,white rice
+arhar dal,maida,besan,rajma
+chole,moong dal,atta,dalia
+dalia,atta,moong dal
+white rice,atta,chole,rajma
+lobia,besan,rajma,moong dal
+atta,rice,arhar dal
+maida,besan,dalia,white rice,moong dal
+chole,besan,white rice,atta
+white rice,rajma,chole
+besan,moong dal,arhar dal,white rice
+white rice,arhar dal
+lobia,chole,rajma,moong dal,white rice,atta
+arhar dal,besan,chole
+maida,atta,besan,white rice
+dalia,chole,moong dal
+dalia,atta,rajma,arhar dal
+maida,rajma,white rice
+atta,white rice,moong dal,arhar dal
+arhar dal,atta,white rice,chole
+rajma,maida,dalia
+white rice,rajma,arhar dal,maida
+besan,rajma,arhar dal,moong dal
+atta,dalia,besan,rajma,white rice
+arhar dal,white rice
+besan,rajma,arhar dal
+besan,moong dal,arhar dal,white rice
+dalia,white rice,moong dal
+atta,white rice,moong dal

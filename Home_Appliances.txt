@@ -1,0 +1,30 @@
+Coffee maker,blender,mixer
+toaster,mixer,microwave
+blender,pressure cooker,stove
+bulb,blender,torch,iron
+mixer,microwave,pressure cooker,stove
+blender,torch,iron,stove
+toaster,bulb,mixer,vaccuum clearner
+pressure cooker,stove,torch
+mixer,bulb,iron,blender
+microwave,pressure cooker,coffee maker
+coffee,toaster,bulb
+fan,bulb,torch
+iron,fan,television,mixer
+television,iron,microwave
+dryer,mixer,iron
+toaster,dryer,stove
+pressure cooker,stove,dishwasher
+coffee maker,fan,television,mixer
+dryer,stove
+microwave,pressure cooker,stove,iron
+mixer,microwave
+dryer,mixer,iron,pressure cooker,coffee maker
+bulb,torch
+blender,pressure cooker,stove,fan,television
+fan,television
+microwave,pressure cooker
+coffee maker,fan,television,mixer,iron
+toaster,bulb
+dryer,stove
+microwave,pressure cooker,coffee maker,television,mixer,iron

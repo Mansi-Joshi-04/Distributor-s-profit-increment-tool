@@ -1,0 +1,30 @@
+foil,batteries,dettol,garbage bags
+garbage bags,foil,toilet roll
+dettol,band aids
+foil,garbage bags,toilet roll
+foil,dettol,batteries
+cling wrap,band aids,batteries
+garbage bags,batteries,dettol 
+room freshner,toilet roll,batteries,band aids
+dettol,foil,cling wrap,toilet roll
+garbage bags,room freshner,toilet roll
+band aids,foil,dettol,garbage bags
+kitchen roll,room freshner,foil,garbage bags
+cling wrap,foil,room freshner
+kitchen roll,foil,band aids,dettol
+batteries,dettol,room freshner,garbage bags
+dettol,toilet roll,batteries,foil
+garbage bags,foil,batteries
+cling wrap,dettol,band aids,kitchen roll,toilet roll
+foil,dettol,room freshner
+band aids,garbage bags,dettol
+cling wrap,room freshner,dettol
+toilet roll,foil,dettol,cling wrap
+band aids,dettol,kitchen roll
+garbage bags,band aids
+cling wrap,room freshner,kitchen roll,foil
+batteries,foil
+room freshner,kitchen roll,foil
+dettol,room freshner
+band aids,dettol
+kitchen roll,room freshner
